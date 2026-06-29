@@ -1,0 +1,428 @@
+# Opdracht: Bouw een compleet nieuwe website voor Stukadoorsbedrijf JP Everts
+
+Je bent een senior UX designer, frontend developer, SEO-specialist en copywriter. Je gaat een compleet nieuwe website ontwerpen en bouwen voor **Stukadoorsbedrijf JP Everts**.
+
+## Belangrijk
+
+Analyseer eerst de huidige website:
+
+http://stukadoorjpeverts.nl/
+
+Gebruik de huidige website uitsluitend als inspiratie voor de huisstijl, kleuren en uitstraling. **Kopieer het ontwerp niet.** Maak een moderne, professionele versie die dezelfde herkenbare uitstraling behoudt, maar veel beter is qua design, gebruikerservaring, snelheid en conversie.
+
+---
+
+# Beschikbare bestanden
+
+In het project bevinden zich:
+
+* een map **fotos** met portfoliofoto's
+* het bedrijfslogo als:
+  **cropped-logo-4.png**
+
+Gebruik uitsluitend deze foto's voor het portfolio.
+
+Het logo moet professioneel verwerkt worden in de navigatie, footer en eventueel de hero.
+
+---
+
+# Bedrijfsgegevens
+
+**Bedrijfsnaam**
+
+Stukadoorsbedrijf JP Everts
+
+**Adres**
+
+Lariksweg 1
+
+9674 JA Winschoten
+
+**Telefoon**
+
+06 46291510
+
+**E-mail**
+
+[contact@stukadoorjpeverts.nl](mailto:contact@stukadoorjpeverts.nl)
+
+**Website**
+
+http://stukadoorjpeverts.nl/
+
+---
+
+# Doelgroep
+
+Particulieren die op zoek zijn naar een betrouwbare stukadoor voor:
+
+* nieuwbouw
+* renovatie
+* verbouwing
+* woonkamers
+* slaapkamers
+* keukens
+* badkamers
+* plafonds
+* complete woningen
+
+Werkgebied:
+
+* Winschoten
+* Groningen
+* Drenthe
+* Friesland
+* omliggende plaatsen
+
+---
+
+# Doel van de website
+
+De website moet direct vertrouwen uitstralen.
+
+Een bezoeker moet binnen enkele seconden begrijpen dat JP Everts staat voor:
+
+* vakmanschap
+* kwaliteit
+* nette afwerking
+* betrouwbaarheid
+* persoonlijk contact
+* jarenlange ervaring
+
+De primaire conversie is:
+
+**Offerte aanvragen of direct bellen.**
+
+---
+
+# Structuur van de homepage
+
+## Hero
+
+Gebruik een krachtige achtergrondfoto uit het portfolio.
+
+Plaats hierin:
+
+* duidelijke headline
+* korte introductie
+* twee CTA-knoppen
+
+Bijvoorbeeld:
+
+* Offerte aanvragen
+* Bel direct
+
+Voeg daarnaast enkele USP's toe zoals:
+
+* Strak stucwerk
+* Vakmanschap
+* Persoonlijke service
+* Vrijblijvende offerte
+
+---
+
+## Over ons
+
+Een professionele introductie van het bedrijf.
+
+Benadruk:
+
+* ervaring
+* kwaliteit
+* persoonlijke aanpak
+* nette werkwijze
+* oog voor detail
+
+---
+
+## Diensten
+
+Maak een overzicht met professionele kaarten.
+
+Denk aan:
+
+* Glad stucwerk
+* Sausklaar stucwerk
+* Behangklaar stucwerk
+* Raapwerk
+* Renovatiestucwerk
+* Plafonds
+* Wanden
+* Sierpleister (indien passend)
+
+Gebruik iconen en korte beschrijvingen.
+
+---
+
+## Portfolio
+
+Gebruik alle beschikbare portfoliofoto's uit de map **fotos**.
+
+Belangrijk:
+
+* Maak de afbeeldingen **niet te groot**.
+* Gebruik een nette masonry-grid of strak raster.
+* Zorg voor voldoende witruimte.
+* Voeg een moderne lightbox toe.
+* Zorg voor subtiele hover-animaties.
+* Focus op een professionele presentatie van het werk.
+
+---
+
+## Werkwijze
+
+Gebruik géén nummering zoals:
+
+❌ 01
+
+❌ 02
+
+❌ 03
+
+Gebruik in plaats daarvan een rustige tijdlijn, iconen of visuele stappen.
+
+Bijvoorbeeld:
+
+* Kennismaken
+* Offerte
+* Uitvoering
+* Oplevering
+
+---
+
+## Waarom kiezen voor JP Everts
+
+Gebruik iconen.
+
+Bijvoorbeeld:
+
+* Vakmanschap
+* Strakke afwerking
+* Heldere communicatie
+* Persoonlijk contact
+* Betrouwbare planning
+* Oog voor detail
+
+---
+
+## Call to Action
+
+Meerdere duidelijke CTA-secties.
+
+Bijvoorbeeld:
+
+"Vraag vandaag nog vrijblijvend een offerte aan."
+
+---
+
+## Contact
+
+Toon duidelijk:
+
+* telefoonnummer
+* e-mailadres
+* adres
+* contactformulier
+* Google Maps integratie (optioneel)
+
+---
+
+## Footer
+
+Plaats hierin:
+
+* logo
+* contactgegevens
+* navigatie
+* bedrijfsinformatie
+* copyright
+
+---
+
+# Design
+
+Behoud de huidige stijl van de bestaande website, maar moderniseer deze volledig.
+
+De uitstraling moet zijn:
+
+* professioneel
+* strak
+* rustig
+* tijdloos
+* premium
+
+Gebruik:
+
+* veel witruimte
+* nette marges
+* mooie schaduwen
+* subtiele gradients indien passend
+* moderne kaarten
+* consistente spacing
+* hoogwaardige typografie
+
+Gebruik **geen metallic fonts** of overdreven effecten.
+
+Het ontwerp moet aanvoelen als een website van een professioneel bouw- of afbouwbedrijf.
+
+---
+
+# Animaties
+
+Gebruik uitsluitend subtiele en vloeiende animaties.
+
+Denk aan:
+
+* zachte fade-ins
+* lichte slide-up animaties
+* hover-effecten
+* smooth transitions
+* micro-interacties
+
+Buttons moeten:
+
+* mooi reageren op hover
+* lichte schaalvergroting krijgen
+* zachte schaduwanimaties hebben
+* vloeiende overgangen gebruiken
+
+---
+
+# Navigatie
+
+Maak een moderne **floating navigation**.
+
+Eigenschappen:
+
+* afgeronde hoeken
+* lichte transparantie (glassmorphism mag subtiel)
+* blur-effect indien passend
+* schaduw
+* sticky tijdens scrollen
+* vloeiende animaties bij scrollen
+* actieve pagina duidelijk zichtbaar
+
+---
+
+# Telefoonnummer
+
+Het telefoonnummer moet extra opvallen.
+
+Bijvoorbeeld:
+
+* subtiele pulse-animatie
+* lichte glow bij hover
+* animatie wanneer de pagina geladen wordt
+
+Niet overdreven, maar professioneel.
+
+---
+
+# Technische eisen
+
+Bouw de website in:
+
+* React
+* JavaScript
+
+Je mag daarnaast gebruiken:
+
+* HTML
+* CSS
+
+Schrijf schone, onderhoudbare code.
+
+Gebruik:
+
+* componenten
+* herbruikbare secties
+* nette bestandsstructuur
+* semantische HTML
+* responsive design
+* mobile first
+* lazy loading van afbeeldingen
+* optimale prestaties
+* goede Core Web Vitals
+
+---
+
+# SEO
+
+Optimaliseer de website voor zoektermen zoals:
+
+* stukadoor Winschoten
+* stukadoor Groningen
+* stukadoorsbedrijf Groningen
+* glad stucwerk
+* sausklaar stucwerk
+* renovatie stucwerk
+* plafonds stucen
+* muren stucen
+
+Maak:
+
+* unieke meta title
+* meta description
+* Open Graph tags
+* structured data voor Local Business
+* correcte heading-structuur (H1 t/m H3)
+
+---
+
+# UX
+
+De website moet snel vertrouwen opwekken.
+
+Belangrijke eigenschappen:
+
+* duidelijke call-to-actions
+* overzichtelijke indeling
+* goede leesbaarheid
+* logische navigatie
+* uitstekende mobiele ervaring
+* snelle laadtijd
+
+---
+
+# Belangrijk
+
+* Gebruik geen generieke AI-opmaak of standaard templates.
+* Vermijd een "AI look".
+* Gebruik geen overbodige effecten of drukke layouts.
+* Maak een website die voelt alsof deze door een ervaren webdesigner is ontworpen.
+* Neem zelf ontwerpbeslissingen die de gebruikservaring verbeteren, zonder de herkenbare stijl van de huidige website te verliezen.
+* Zorg dat de portfoliofoto's de kwaliteit van het vakmanschap centraal stellen zonder de pagina te overheersen.
+
+
+
+
+
+
+vermijd de volgende dingen bij het bouwen:
+
+Een hero-sectie met een overduidelijke AI-gegenereerde of stockfoto die niets met de echte zaak te maken heeft (bv. een futloos perfecte salon die niet de jouwe is).
+Team- of sfeerfoto’s met AI-gezichten: asymmetrische ogen, oorbellen die niet matchen, brillen die in het haar vervagen.
+Afbeeldingen die duidelijk renders zijn: muren zonder plinten of stopcontacten, voeten die zweven, nagels zonder nagelriemen.
+De website volgt exact het standaardblokkenrecept: hero → drie icoontjes met USP’s → vier dienstentegels → Over ons → contactformulier → footer. Geen enkele verrassing.
+Alles staat stijf uitgelijnd in een perfect symmetrisch grid, zonder dat één element speels afwijkt of een eigen plek heeft.
+De homepagina voelt als een landingspagina-template uit een websitebouwer: anoniem, zonder karakter dat bij de zaak past.
+Een overvloed aan witruimte rond tekstblokken, terwijl foto’s juist te klein zijn weggestopt — de balans klopt niet.
+Of juist het tegenovergestelde: alle content staat dicht op elkaar geplakt alsof alles erin geperst moest worden, een typisch teken van automatisch gegenereerde blokken.
+Mobiele weergave die onnatuurlijk perfect schaalt zonder dat er ergens een regelafbreking raar loopt — alsof de site uitsluitend op de pixel is ontworpen, niet op echte content.
+Een hamburgermenu op desktop omdat de AI ervan uitging dat het modern moet, terwijl er maar vier pagina’s zijn.
+Navigatielabels als “Diensten”, “Over ons”, “Contact” die precies zo uit een tutorial komen — zonder persoonlijke twist als “Wat ik doe” of “Maak kennis”.
+Knoppen met doodnormale teksten als “Meer informatie” of “Neem contact op” die nergens uit de toon vallen, maar daardoor ook totaal niet onthouden worden.
+De footer is een kopie van honderden andere: logo links, drie kolommen met snelle links, icoontjes voor sociale media (die vaak naar lege profielen leiden).
+Overal hetzelfde standaard Google Font gebruikt (zoals Open Sans of Roboto) zonder dat het lettertype ook maar ergens in de branding terugkomt.
+Koppen, subkoppen en broodtekst die keurig hiërarchisch zijn opgemaakt met de standaard groottes uit een design systeem — geen enkele eigenzinnige lettergrootte of uitschieter.
+Tekst die exact perfect Nederlands is uitgelijnd, zonder dat ergens een zacht afbrekingsstreepje
+Overal dezelfde alinealengte van 3 tot 4 regels, alsof een AI heeft bedacht dat dat de ideale scanlengte is — geen enkel blok wijkt af.
+
+gebruik geen 01,02,03 voor nummering. 
+maak de fotos niet te groot bij het portfolio. 
+de site moet professioneel zijn. 
+gebruik geen metallic fonts. 
+je mag de site ook in react en javascript maken en je mag ook html en css gebruiken wat jij het best vind
+geen AI SLOP.
+zorg ook dat buttons en knopjes ook smooth animaties hebben.
+ook het nummer van het bedrijf moet ook een animatie hebben
